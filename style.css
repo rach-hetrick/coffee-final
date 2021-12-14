@@ -79,7 +79,7 @@ header {
   height: 100vh;
  position: relative;
   
-  background-image: url("https://assets.codepen.io/5652582/beans.jpg");
+  background-image: url(images/beans.jpg);
     background-size: cover;
   background-position: center;
 }
