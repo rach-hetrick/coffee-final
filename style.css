@@ -1,17 +1,17 @@
 /* fonts */
 @font-face {
   font-family: 'Staatliches';
-  src: url(https://assets.codepen.io/5652582/staatliches-regular-webfont.woff);
+  src: url(fonts/staatliches-regular-webfont.woff);
 }
 
 @font-face {
   font-family: 'lato';
-  src: url(https://assets.codepen.io/5652582/lato-light-webfont.woff);
+  src: url(fonts/lato-light-webfont.woff);
 }
 
 @font-face {
   font-family: 'nixieone';
-  src: url(https://assets.codepen.io/5652582/nixieone-regular-webfont.woff);
+  src: url(fonts/nixieone-regular-webfont.woff);
 }
 
 
